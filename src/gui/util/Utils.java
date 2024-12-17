@@ -14,8 +14,6 @@ public class Utils {
 			return Integer.parseInt(str);
 		} catch (NumberFormatException e) {
 			return null;
-		}
-		
-		
+		}	
 	}
 }
